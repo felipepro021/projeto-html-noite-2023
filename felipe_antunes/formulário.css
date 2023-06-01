@@ -49,7 +49,7 @@ button {
 fieldset.grupo .campo {
     float: left;
     margin-right: 1 em;
-}
+} 
 
 .campo input[type="text"],
 .campo input[type="email"],
